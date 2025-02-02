@@ -3,7 +3,7 @@
 
 About This Course:
 
--   Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind
+-   Tech Stack: Node.js, Express.js, MongoDB, Tailwind
 -   Authentication with JWT
 -   Responsive UI
 -   Watch Trailers
